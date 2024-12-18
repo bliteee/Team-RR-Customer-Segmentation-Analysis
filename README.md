@@ -18,8 +18,9 @@ Programming Language: Python
   - Number of visits 
   - Purchase categories (e.g., electronics, fashion, etc.) 
 ## Execution Steps (How to run the project) 			
-1. Install dependencies: Make sure Python (preferably Python 3.x; we have used Jupyter notebook ) is installed, then install the required libraries using: pip install -r requirements.txt
-2. Prepare the data:
+1. Install dependencies:
+   - Make sure Python (preferably Python 3.x; we have used Jupyter notebook ) is installed, then install the required libraries using: pip install -r requirements.txt
+3. Prepare the data:
    - Ensure that the dataset is in the appropriate directory.
 4. Run the Clustering Algorithm:
    - The clustering is implemented using K-Means. To execute the clustering and generate the output. 
@@ -33,6 +34,6 @@ Programming Language: Python
 1. Data Quality: Handling missing or incomplete data was challenging, especially with varying formats in customer spending and visit data. 
 2. Choosing the Right Number of Clusters: Determining the optimal number of clusters for K-Means using methods like the Elbow Method and Silhouette Score required experimentation. 
 3. Scalability: As the dataset size increased, performing clustering and visualizations became resource-intensive. Future Enhancements 
-- Explore other clustering algorithms (e.g., DBSCAN, hierarchical clustering) for comparison.
-- Incorporate more customer features such as demographics and product preferences for more comprehensive segmentation. 
-- Develop a real-time segmentation model using streaming data for dynamic customer profiling.
+  - Explore other clustering algorithms (e.g., DBSCAN, hierarchical clustering) for comparison.
+  - Incorporate more customer features such as demographics and product preferences for more comprehensive segmentation. 
+  - Develop a real-time segmentation model using streaming data for dynamic customer profiling.
