@@ -5,7 +5,7 @@
 3. Name: Sumit Chaudhary
    - KU ID: KU2407U269
 
-## Objective of the Project
+### Objective of the Project
 The objective of this project is to segment e-commerce customers based on their spending habits using clustering techniques. By grouping customers with similar spending behaviours, we aim to identify patterns and insights that can help improve targeted marketing, customer engagement, and product recommendations.
 ## Tools and Libraries Used 
 Programming Language: Python
