@@ -12,9 +12,9 @@ The objective of this project is to segment e-commerce customers based on their 
 4. seaborn: For advanced data visualization.
 5. sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s)
 6. Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as:
-  Customer ID o Total spending (annual)
-  Number of visits 
-  Purchase categories (e.g., electronics, fashion, etc.) 
+  - Customer ID o Total spending (annual)
+  - Number of visits 
+  - Purchase categories (e.g., electronics, fashion, etc.) 
 ## Execution Steps (How to run the project) 			
 1. Install dependencies: Make sure Python (preferably Python 3.x; we have used Jupyter notebook ) is installed, then install the required libraries using: pip install -r requirements.txt
 2. Prepare the data: o Ensure that the dataset is in the appropriate directory.
