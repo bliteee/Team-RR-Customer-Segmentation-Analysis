@@ -23,12 +23,13 @@ Programming Language: Python
    - Ensure that the dataset is in the appropriate directory.
 4. Run the Clustering Algorithm:
    - The clustering is implemented using K-Means. To execute the clustering and generate the output. 
-5. Visualize the Results: After running the clustering, the results will be available in a visual format. You can explore the visualizations directly viewing them in the notebook (using Jupyter).
-6. Interpret Results:
-   - Review the customer segments and interpret them based on the spending habits identified by the clustering process. 
-- Detailed insights will be saved as a .csv or .xlsx file in the results/ folder. Summary of Results 
-- Customer Segments: We identified multiple distinct customer segments based on their spending patterns. 
-- Visualizations: The clusters are visualized using scatter plots, bar charts, and other techniques to clearly depict the segmentation. These segments provide actionable insights for improving targeted marketing and personalized offers for each customer group. Challenges Faced 
+5. Visualize the Results:
+   - After running the clustering, the results will be available in a visual format. You can explore the visualizations directly viewing them in the notebook (using Jupyter).
+7. Interpret Results:
+  - Review the customer segments and interpret them based on the spending habits identified by the clustering process. 
+  - Detailed insights will be saved as a .csv or .xlsx file in the results/ folder. Summary of Results 
+  - Customer Segments: We identified multiple distinct customer segments based on their spending patterns. 
+  - Visualizations: The clusters are visualized using scatter plots, bar charts, and other techniques to clearly depict the segmentation. These segments provide actionable insights for improving targeted marketing and personalized offers for each customer group. Challenges Faced 
 1. Data Quality: Handling missing or incomplete data was challenging, especially with varying formats in customer spending and visit data. 
 2. Choosing the Right Number of Clusters: Determining the optimal number of clusters for K-Means using methods like the Elbow Method and Silhouette Score required experimentation. 
 3. Scalability: As the dataset size increased, performing clustering and visualizations became resource-intensive. Future Enhancements 
