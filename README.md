@@ -1,17 +1,17 @@
 Mall Customer Shopping Segmentation Analysis Group Members 
 
 Name: Shashank Kumar Roll Number: KU2407U370 
-Name: Sumit Chaudhary Roll Number: KU2407U269 
-Objective of the Project 
-The objective of this project is to segment e-commerce customers based on their spending habits using clustering techniques. By grouping customers with similar spending behaviours, we aim to identify patterns and insights that can help improve targeted marketing, customer engagement, and product recommendations. 
+Name: Sumit Chaudhary Roll Number: KU2407U269
+Objective of the Project
+The objective of this project is to segment e-commerce customers based on their spending habits using clustering techniques. By grouping customers with similar spending behaviours, we aim to identify patterns and insights that can help improve targeted marketing, customer engagement, and product recommendations.
 Tools and Libraries Used 
-Programming Language: Python 
-Libraries: o pandas: For data manipulation and preprocessing. 
+Programming Language: Python
+Libraries: o pandas: For data manipulation and preprocessing.
 numpy: For numerical operations. o matplotlib: For data visualization. 
-seaborn: For advanced data visualization. 
-sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s) 
+seaborn: For advanced data visualization.
+sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s)
 Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as: 
-Customer ID o Total spending (annual) 
+Customer ID o Total spending (annual)
 Number of visits 
 Purchase categories (e.g., electronics, fashion, etc.) 
 Execution Steps (How to run the project) 
