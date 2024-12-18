@@ -19,10 +19,13 @@ Programming Language: Python
   - Purchase categories (e.g., electronics, fashion, etc.) 
 ## Execution Steps (How to run the project) 			
 1. Install dependencies: Make sure Python (preferably Python 3.x; we have used Jupyter notebook ) is installed, then install the required libraries using: pip install -r requirements.txt
-2. Prepare the data: - Ensure that the dataset is in the appropriate directory.
-3. Run the Clustering Algorithm: - The clustering is implemented using K-Means. To execute the clustering and generate the output. 
-4. Visualize the Results: After running the clustering, the results will be available in a visual format. You can explore the visualizations directly viewing them in the notebook (using Jupyter).
-5. Interpret Results: - Review the customer segments and interpret them based on the spending habits identified by the clustering process. 
+2. Prepare the data:
+   - Ensure that the dataset is in the appropriate directory.
+4. Run the Clustering Algorithm:
+   - The clustering is implemented using K-Means. To execute the clustering and generate the output. 
+5. Visualize the Results: After running the clustering, the results will be available in a visual format. You can explore the visualizations directly viewing them in the notebook (using Jupyter).
+6. Interpret Results:
+   - Review the customer segments and interpret them based on the spending habits identified by the clustering process. 
 - Detailed insights will be saved as a .csv or .xlsx file in the results/ folder. Summary of Results 
 - Customer Segments: We identified multiple distinct customer segments based on their spending patterns. 
 - Visualizations: The clusters are visualized using scatter plots, bar charts, and other techniques to clearly depict the segmentation. These segments provide actionable insights for improving targeted marketing and personalized offers for each customer group. Challenges Faced 
