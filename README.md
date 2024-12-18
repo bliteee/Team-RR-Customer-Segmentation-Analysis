@@ -6,14 +6,14 @@
 ## Objective of the Project
 The objective of this project is to segment e-commerce customers based on their spending habits using clustering techniques. By grouping customers with similar spending behaviours, we aim to identify patterns and insights that can help improve targeted marketing, customer engagement, and product recommendations.
 ## Tools and Libraries Used 
-1. Programming Language: Python
-Libraries:
-3. pandas: For data manipulation and preprocessing.
-4. numpy: For numerical operations.
-5. matplotlib: For data visualization. 
-6. seaborn: For advanced data visualization.
-7. sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s)
-8. Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as:
+Programming Language: Python
+-Libraries:
+1. pandas: For data manipulation and preprocessing.
+2. numpy: For numerical operations.
+3. matplotlib: For data visualization. 
+4. seaborn: For advanced data visualization.
+5. sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s)
+6. Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as:
   - Customer ID o Total spending (annual)
   - Number of visits 
   - Purchase categories (e.g., electronics, fashion, etc.) 
