@@ -1,20 +1,20 @@
 Mall Customer Shopping Segmentation Analysis Group Members 
 
-• Name: Shashank Kumar Roll Number: KU2407U370 
-• Name: Sumit Chaudhary Roll Number: KU2407U269 
+Name: Shashank Kumar Roll Number: KU2407U370 
+Name: Sumit Chaudhary Roll Number: KU2407U269 
 Objective of the Project 
 The objective of this project is to segment e-commerce customers based on their spending habits using clustering techniques. By grouping customers with similar spending behaviours, we aim to identify patterns and insights that can help improve targeted marketing, customer engagement, and product recommendations. 
 Tools and Libraries Used 
-• Programming Language: Python 
-• Libraries: o pandas: For data manipulation and preprocessing. 
-•numpy: For numerical operations. o matplotlib: For data visualization. 
-•seaborn: For advanced data visualization. 
-•sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s) 
-• Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as: 
-o Customer ID o Total spending (annual) 
-o Number of visits 
-o Purchase categories (e.g., electronics, fashion, etc.) 
-o Execution Steps (How to run the project) 
+Programming Language: Python 
+Libraries: o pandas: For data manipulation and preprocessing. 
+numpy: For numerical operations. o matplotlib: For data visualization. 
+seaborn: For advanced data visualization. 
+sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s) 
+Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as: 
+Customer ID o Total spending (annual) 
+Number of visits 
+Purchase categories (e.g., electronics, fashion, etc.) 
+Execution Steps (How to run the project) 
 1. Install dependencies: Make sure Python (preferably Python 3.x; we have used Jupyter notebook ) is installed, then install the required libraries using: pip install -r requirements.txt
 2. Prepare the data: o Ensure that the dataset is in the appropriate directory.
 3. Run the Clustering Algorithm: o The clustering is implemented using K-Means. To execute the clustering and generate the output. 
