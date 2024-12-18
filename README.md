@@ -8,10 +8,11 @@ The objective of this project is to segment e-commerce customers based on their 
 ## Tools and Libraries Used 
 1. Programming Language: Python
 2. Libraries: o pandas: For data manipulation and preprocessing.
-3. numpy: For numerical operations. o matplotlib: For data visualization. 
-4. seaborn: For advanced data visualization.
-5. sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s)
-6. Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as:
+3. numpy: For numerical operations.
+4. matplotlib: For data visualization. 
+5. seaborn: For advanced data visualization.
+6. sklearn: For machine learning algorithms, including clustering (K-Means). Data Source(s)
+7. Dataset: The dataset used for this project is a simulated e-commerce customer data, which includes customer details such as:
   - Customer ID o Total spending (annual)
   - Number of visits 
   - Purchase categories (e.g., electronics, fashion, etc.) 
