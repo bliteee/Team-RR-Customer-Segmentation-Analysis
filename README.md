@@ -15,7 +15,7 @@ Dataset: The dataset used for this project is a simulated e-commerce customer da
 Customer ID o Total spending (annual)
 Number of visits 
 Purchase categories (e.g., electronics, fashion, etc.) 
-Execution Steps (How to run the project) 			
+## Execution Steps (How to run the project) 			
 1. Install dependencies: Make sure Python (preferably Python 3.x; we have used Jupyter notebook ) is installed, then install the required libraries using: pip install -r requirements.txt
 2. Prepare the data: o Ensure that the dataset is in the appropriate directory.
 3. Run the Clustering Algorithm: o The clustering is implemented using K-Means. To execute the clustering and generate the output. 
