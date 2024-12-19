@@ -2,8 +2,14 @@
 
 1. Name: Shashank Kumar
    - KU ID: KU2407U370 
-3. Name: Sumit Chaudhary
+2. Name: Sumit Chaudhary
    - KU ID: KU2407U269
+2. Name: Suhel Patel
+   - KU ID: KU2407U383
+2. Name: Harsh Rajpurohit
+   - KU ID: KU2407U285
+2. Name: Meshva Rao
+   - KU ID: KU2407U684
 
 ## Objective of the Project
 The objective of this project is to segment e-commerce customers based on their spending habits using clustering techniques. By grouping customers with similar spending behaviours, we aim to identify patterns and insights that can help improve targeted marketing, customer engagement, and product recommendations.
